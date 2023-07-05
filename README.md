@@ -1,11 +1,11 @@
-### Olá! Me chamo Victor Ricco 👋
+## Olá! Me chamo Victor Ricco 👋
 Sou desenvolvedor focado em aplicações web e Node.js. Caso queira saber mais e sobre certificações entre em meu linkedin!!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ricco/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-ricco&layout=compact)
 
-## Stacks 🔥💻
+# Stacks 🔥💻
 
 Aqui estão algumas stacks em que ja trabalhei ou tive um rapido contato para desenvolver um projeto.
 
