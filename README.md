@@ -5,7 +5,7 @@ Sou desenvolvedor focado em aplicações web e Node.js. Caso queira saber mais e
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-ricco&layout=compact)
 
-# Stacks 🔥💻
+## Stacks 🔥💻
 
 Aqui estão algumas stacks em que ja trabalhei ou tive um rapido contato para desenvolver um projeto.
 
